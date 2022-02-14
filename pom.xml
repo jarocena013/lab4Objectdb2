@@ -16,7 +16,6 @@
     <maven.compiler.source>1.8</maven.compiler.source>
 </properties>
 
-<!-- https://mvnrepository.com/artifact/junit/junit -->
 <dependencies>
 		<dependency>
 			<groupId>com.objectdb</groupId>
